@@ -1,0 +1,36 @@
+    body{
+      background-image: url(background\ picture.jpg);
+    }
+    
+    th{
+        background-color: gray;
+    }
+    tr{
+        background-color: white;
+        border-bottom: 1px solid black;
+    }
+    table, th, td {
+          text-align: left;
+          font-size: 30px;
+          padding: 20px;      
+        }
+    table{
+        width: 100%
+        }
+    tr:hover {background-color: rgb(218, 238, 248);}
+    .myDiv {    
+            text-align: center;
+        }
+    section{
+    border-bottom: 1px solid black;
+    }
+    h1{
+        font-family: 'cambria';
+        font-size: 50px;
+        font-weight: bold;
+    }
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: 100%;
+      }
